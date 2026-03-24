@@ -99,10 +99,7 @@ Contributions are always welcome!
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
----
 <div align="center">
   <i>Built with ❤️ for better learning.</i>
 </div>
